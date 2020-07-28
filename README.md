@@ -4,8 +4,15 @@
     <img src = "./images/lions.jpg" width=500>
 </p>
 
-This repository houses two SQL mini projects. The exercises come from the assessments found on [SQLZOO](https://sqlzoo.net).
+This repository houses two SQL mini projects. The exercises come from the assessments found on [SQLZOO](https://sqlzoo.net). Each project contains a notebook containing a set of questions and MySQL queries.
 
-Projects include:
+## Projects include:
 * Hotel Bookings
+
+![hotel_data](./images/hotel_data.png)
+
 * Adventure Works - Wholesale
+
+![adventure_data](./images/adventure_data.png)
+
+
