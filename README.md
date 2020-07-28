@@ -8,4 +8,4 @@ This repository houses two SQL mini projects. The exercises come from the assess
 
 Projects include:
 * Hotel Bookings
-* Adventure WOrks - Wholesale
+* Adventure Works - Wholesale
